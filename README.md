@@ -36,5 +36,11 @@ Hoverig mouse over a service name displays some addtional information about the 
 
 Hint: Drop port close to the service name label because you won't be able to drag it again if association made was correct and it may obscure other port preventing from dragging it.
 
+## Screenshot
+
+![Screenshot](card.png?raw=true "Screenshot")
+
+
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
