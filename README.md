@@ -1,7 +1,7 @@
 # ip-ports-for-ceh-game
 ## Simple python drag-and-drop game to help remember services and their ports.
 ## Description
-The game contains most common ports and services that are expected during CEHv11 exam. By playing it one can solidify their association.
+The game contains most common ports and services that are expected during CEHv11 exam. By playing it one can solidify their association knowledge.
 
 
 ## Getting Started
@@ -34,7 +34,7 @@ Click and drag port number from the left column towards correct service name on 
 Once completed click Next button to randomnly select next batch.
 Hoverig mouse over a service name displays some addtional information about the service. These can be edited in ports.py as needed.
 
-Hint: Drop port close to the service name label because you won't be able to drag it again if association made was correct and it may obscure other port preventing it from dragging it.
+Hint: Drop port close to the service name label because you won't be able to drag it again if association made was correct and it may obscure other port preventing from dragging it.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
